@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Java, DSA, AI/ML**
 - 👨‍💻 Check out my projects: **[Portfolio](https://abhishek8040.github.io/portfolio/)**
 - 💬 Ask me about **Java, Python, Coding, and Technology**
-- 📫 How to reach me: **abhishekdubey842003@gmail.com**
+- 📫 How to reach me: **abhishekdubey8040@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1VXfL0lqY58wdZ6TuSQWz-GPRMo0N6lIS/view)**
 - ⚡ Fun fact: *"Humans created AI, what if AI starts creating humans?"* 🤯
 
@@ -51,7 +51,7 @@
 ## 🌱 Let's Connect & Collaborate!
 💡 Always open to discussing innovative tech ideas, contributing to open-source projects, and building something exciting! Feel free to reach out. 🚀
 
-📩 **Drop me an email** at [abhishekdubey842003@gmail.com](mailto:abhishekdubey842003@gmail.com)
+📩 **Drop me an email** at [abhishekdubey8040@gmail.com](mailto:abhishekdubey8040@gmail.com)
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" />

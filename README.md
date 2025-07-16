@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>, I'm Abhishek Dubey</h1>
-<h3 align="center">🚀 DevOps Engineer | AI Enthusiast | Full-Stack Developer from India</h3>
+<h3 align="center">🚀 DevOps Engineer | AI Enthusiast | Full-Stack Developer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishekdubey8040"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>

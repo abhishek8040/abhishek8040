@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/abhishekdubey8040"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://www.leetcode.com/_abhishekdubey"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" alt="LeetCode" /></a>
-  <a href="mailto:abhishekdubey842003@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" /></a>
+  <a href="mailto:abhishekdubey8040@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail" /></a>
 </p>
 
 ---

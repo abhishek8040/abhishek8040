@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Vigilante]((https://github.com/abhishek8040/CrowdAnomalyDetectionSystem))**
+- 🔭 I’m currently working on **[Vigilante](https://github.com/abhishek8040/CrowdAnomalyDetectionSystem)**
 - 🌱 I’m currently learning **Java, DSA, AI/ML**
 - 👨‍💻 Check out my projects: **[Portfolio](https://abhishek8040.github.io/portfolio/)**
 - 💬 Ask me about **Java, Python, Coding, and Technology**
